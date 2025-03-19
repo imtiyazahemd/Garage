@@ -1,0 +1,4 @@
+O5JrpTVB5CKzVvBw
+khanshamila
+
+mongodb+srv://khanshamila:O5JrpTVB5CKzVvBw@cluster0.ttjne.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
